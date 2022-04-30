@@ -6,12 +6,12 @@
 
 | 1. [Code Basics youtube tutorial][#codeBasics]  |
 | ------------ |
-| 2.** [Linkedin Learning][#linkedinLearning] **|
+| 2. [Linkedin Learning][#linkedinLearning] |
 | |
 
 [#codeBasics]: https://www.youtube.com/watch?v=_eAl7vuVu3U "Code Basics youtube tutorial"
 
-####*Tools Used:*
+*Tools Used:*
 | 1. [Microsoft Power BI][#microsoftPowerBI] |
 | ------------ |
 |   |
